@@ -1,4 +1,4 @@
-# OhioismQuant
+# OhioismQuant (Polymarket Trading Bot Development Course)
 
 **Paid VIP program for traders and builders.** Learn to build a Polymarket trading bot with private lessons in market making, arbitrage, execution, and risk.
 
